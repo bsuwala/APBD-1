@@ -6,7 +6,7 @@ public class zad3
         {
             if (numbers == null || numbers.Length == 0)
             {
-                throw new ArgumentException("...........");
+                throw new ArgumentException("........aaa...");
             }
 
             return numbers.Average();
