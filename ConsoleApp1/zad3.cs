@@ -6,7 +6,7 @@ public class zad3
         {
             if (numbers == null || numbers.Length == 0)
             {
-                throw new ArgumentException("Tablica nie może być pusta lub null");
+                throw new ArgumentException("...........");
             }
 
             return numbers.Average();
